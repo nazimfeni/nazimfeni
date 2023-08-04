@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**nazimfeni/nazimfeni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Md. Nazim Uddin, currently serving as an IT team lead. In my role as a team leader, I enthusiastically utilize a range of technologies. One of my favorites is Flutter, a versatile framework enabling the creation of native apps across various platforms. Additionally, I harness the power of Laravel for backend development and Vue.js for frontend web development. These tools collectively empower me to craft seamless and innovative digital solutions.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Skills I have**
+1. Languages: Dart, ,JavaScript, PHP, Python
+2. Frameworks: Flutter, Laravel, Vuejs
+3. Database: MySQL, SQL Server, SQLite
+4. Strong knowledge in RESTful web-services/API
+5. Good problem solving skill
+6. Uses Figma for UI/UX
+7. Proper knowledge of Github and bitbucket
+8. love to work as agile mode.
+9. has sound business analysis experience 
