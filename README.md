@@ -27,5 +27,5 @@ I'm Md. Nazim Uddin, currently serving as an IT team lead. In my role as a team 
 4. Strong knowledge in RESTful web-services/API
 5. Good problem solving skill
 6. Uses Figma for UI/UX
-7. Love to work as agile mode.
+7. Love to work as agile mode
 8. Has sound business requirement analysis experience 
