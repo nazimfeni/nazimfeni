@@ -1,3 +1,4 @@
+JavaScript TypeScript PHP Docker React.js Vite Node.js jQuery Laravel WordPress Elementor Python MySQL MariaDB
 ### Hi there 👋
 
 I'm Md. Nazim Uddin, currently serving as an IT team lead. In my role as a team leader, I enthusiastically utilize a range of technologies. One of my favorites is Flutter, a versatile framework enabling the creation of native apps across various platforms. Additionally, I harness the power of Laravel for backend development and React.js for frontend web development. These tools collectively empower me to craft seamless and innovative digital solutions.
