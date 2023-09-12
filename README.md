@@ -22,11 +22,10 @@ I'm Md. Nazim Uddin, currently serving as an IT team lead. In my role as a team 
 
 **Skills I have**
 1. Languages: Dart,Python,JavaScript, PHP
-2. Frameworks: Flutter, Laravel, Vuejs
+2. Frameworks: Flutter, Laravel, React.js, Vuejs
 3. Database: MySQL, SQL Server, SQLite
 4. Strong knowledge in RESTful web-services/API
 5. Good problem solving skill
 6. Uses Figma for UI/UX
-7. Proper knowledge of Github and bitbucket
-8. love to work as agile mode.
-9. has sound business analysis experience 
+7. Love to work as agile mode.
+8. Has sound business requirement analysis experience 
