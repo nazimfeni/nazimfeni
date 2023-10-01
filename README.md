@@ -5,7 +5,7 @@
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![React.js](https://img.shields.io/badge/React.js-0081CB?style=flat-square&logo=react&logoColor=61DAFB)
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D)
-![Nuxt.js](https://img.shields.io/badge/Nuxt.js-%00C58E.svg?style=flat-square&logo=Nuxt.js&logoColor=white)
+![Nuxtjs](https://img.shields.io/badge/Nuxt-002E3B?style=flat-square&logo=nuxtdotjs&logoColor=#00DC82)
 ![Vite](https://img.shields.io/badge/Vite-593D88?style=flat-square&logo=vite&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
