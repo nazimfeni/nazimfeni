@@ -19,8 +19,8 @@
 As an IT Team Lead, I am passionate about leveraging cutting-edge technologies to build innovative and efficient digital solutions. I thrive on utilizing a diverse set of tools, with Flutter being one of my favorites for creating native apps across multiple platforms. For backend development, I rely on the robust capabilities of Laravel, while React.js is my go-to for crafting dynamic and responsive frontend web applications. Together, these technologies empower me to deliver seamless user experiences and drive forward-thinking projects.
 
 **Skills I have**
-1. Languages: Dart,Python,JavaScript, PHP
-2. Frameworks: Flutter, Laravel, React.js, Vuejs
+1. Languages: Python, JavaScript, PHPDart
+2. Frameworks: Laravel, Vuejs, Flutter
 3. Database: MySQL, MongoDB, SQLite
 4. Strong knowledge in RESTful web-services/API
 5. Good problem solving skill
