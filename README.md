@@ -16,7 +16,7 @@
 
 
 
-I'm Md. Nazim Uddin, currently serving as an IT team lead. In my role as a team leader, I enthusiastically utilize a range of technologies. One of my favorites is Flutter, a versatile framework enabling the creation of native apps across various platforms. Additionally, I harness the power of Laravel for backend development and React.js for frontend web development. These tools collectively empower me to craft seamless and innovative digital solutions.
+As an IT Team Lead, I am passionate about leveraging cutting-edge technologies to build innovative and efficient digital solutions. I thrive on utilizing a diverse set of tools, with Flutter being one of my favorites for creating native apps across multiple platforms. For backend development, I rely on the robust capabilities of Laravel, while React.js is my go-to for crafting dynamic and responsive frontend web applications. Together, these technologies empower me to deliver seamless user experiences and drive forward-thinking projects.
 
 **Skills I have**
 1. Languages: Dart,Python,JavaScript, PHP
