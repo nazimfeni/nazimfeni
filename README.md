@@ -1,4 +1,4 @@
-### Md. Nazim Uddin | IT Team Lead
+### Md. Nazim Uddin | IT Manager
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
