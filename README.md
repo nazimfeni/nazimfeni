@@ -15,8 +15,7 @@
 
 
 
-
-As an IT Team Lead, I am passionate about leveraging cutting-edge technologies to build innovative and efficient digital solutions. I thrive on utilizing a diverse set of tools, with Flutter being one of my favorites for creating native apps across multiple platforms. For backend development, I rely on the robust capabilities of Laravel, while React.js is my go-to for crafting dynamic and responsive frontend web applications. Together, these technologies empower me to deliver seamless user experiences and drive forward-thinking projects.
+As an experienced IT Manager, I bring a strong technical background to managing and leading IT operations. My expertise spans both software development and IT infrastructure, allowing me to bridge the gap between coding and systems management. I lead development teams in building and maintaining scalable applications, while also overseeing the IT infrastructure that supports these solutions. By ensuring seamless integration of technology and development processes, I enable efficient workflows and foster innovation. My role involves both hands-on development work and strategic management, ensuring that the technology stack is aligned with business goals and optimized for growth.
 
 **Skills I have**
 1. Languages: Python, JavaScript, PHPDart
