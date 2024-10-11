@@ -21,7 +21,7 @@
 As an experienced IT Manager, I bring a strong technical background to managing and leading IT operations. My expertise spans both software development and IT infrastructure, allowing me to bridge the gap between coding and systems management. I lead development teams in building and maintaining scalable applications, while also overseeing the IT infrastructure that supports these solutions. By ensuring seamless integration of technology and development processes, I enable efficient workflows and foster innovation. My role involves both hands-on development work and strategic management, ensuring that the technology stack is aligned with business goals and optimized for growth.
 
 **Skills I have**
-1. Languages: Python, JavaScript, PHPDart
+1. Languages:JavaScript, PHP,  Python, Dart
 2. Frameworks: Laravel, Vuejs, Flutter
 3. Database: MySQL, MongoDB, SQLite
 4. Strong knowledge in RESTful web-services/API
