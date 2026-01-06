@@ -11,6 +11,7 @@
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=Flutter&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
 ![WordPress](https://img.shields.io/badge/Wordpress-21759B?style=flat-square&logo=wordpress&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
 
@@ -21,9 +22,9 @@
 As an experienced IT Manager, I bring a strong technical background to managing and leading IT operations. My expertise spans both software development and IT infrastructure, allowing me to bridge the gap between coding and systems management. I lead development teams in building and maintaining scalable applications, while also overseeing the IT infrastructure that supports these solutions. By ensuring seamless integration of technology and development processes, I enable efficient workflows and foster innovation. My role involves both hands-on development work and strategic management, ensuring that the technology stack is aligned with business goals and optimized for growth.
 
 **Skills I have**
-1. Languages:JavaScript, PHP,  Python, Dart
+1. Languages:JavaScript, PHP,  Python, Dart, Go
 2. Frameworks: Laravel, Vuejs, Flutter
-3. Database: MySQL, MongoDB, SQLite
+3. Database: MySQL, MongoDB, PostgreSQL
 4. Strong knowledge in RESTful web-services/API
 5. Good problem solving skill
 6. Uses Figma for UI/UX
