@@ -9,7 +9,6 @@
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=flat-square&logo=vuedotjs&logoColor=%234FC08D)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=Flutter&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-593D88?style=flat-square&logo=vite&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
 ![WordPress](https://img.shields.io/badge/Wordpress-21759B?style=flat-square&logo=wordpress&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
