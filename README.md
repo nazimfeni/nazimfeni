@@ -27,6 +27,5 @@ As an experienced IT Manager, I bring a strong technical background to managing 
 3. Database: MySQL, MongoDB, PostgreSQL
 4. Strong knowledge in RESTful web-services/API
 5. Good problem solving skill
-6. Uses Figma for UI/UX
-7. Love to work as agile mode
-8. Has sound business requirement analysis experience 
+6. Love to work as agile mode
+7. Has sound business requirement analysis experience 
