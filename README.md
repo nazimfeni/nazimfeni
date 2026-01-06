@@ -12,7 +12,6 @@
 ![Vite](https://img.shields.io/badge/Vite-593D88?style=flat-square&logo=vite&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
 ![WordPress](https://img.shields.io/badge/Wordpress-21759B?style=flat-square&logo=wordpress&logoColor=white)
-![Elementor](https://img.shields.io/badge/Elementor-9146FF?style=flat-square&logo=elementor&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
 
